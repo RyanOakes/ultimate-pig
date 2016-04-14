@@ -1,12 +1,12 @@
-##Pig Solitaire
+#Pig Solitaire
 
 
 
-#Normal Mode
+##ormal Mode
 Create a simulation of different types of players of Pig Solitaire. You will start with a base Player class that only rolls once per turn. Then create Player subclasses -- at least 2 -- that have different strategies.
 
 
-#The Rules of Pig Solitaire
+##The Rules of Pig Solitaire
 
 In 7 turns, you are attempting to get the highest score possible.
 
@@ -32,6 +32,6 @@ The seventh turn, I roll a 5. I choose to roll again. I roll a 1, and receive no
 
 My final score is 73.
 
-#Instructions
+##Instructions
 
-As each game is run, it'll show the total score for the three players. In order from top to bottom, they are the average player, cautious one, and aggressive one. 
+As each game is run, it'll show the total score for the three players. In order from top to bottom, they are the average player, cautious one, and aggressive one.
