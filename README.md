@@ -2,7 +2,7 @@
 
 
 
-##ormal Mode
+##Normal Mode
 Create a simulation of different types of players of Pig Solitaire. You will start with a base Player class that only rolls once per turn. Then create Player subclasses -- at least 2 -- that have different strategies.
 
 
